@@ -12,7 +12,7 @@ dist
 dist-ssr
 *.local
 backend/routes/auth.js
-backend/middlewares/fetchuser.js
+backend/middlewares/
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
